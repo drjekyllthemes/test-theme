@@ -1,0 +1,39 @@
+###############################
+#  Jekyll Themes
+
+
+- name:      Hello, Jekyll!
+  series:    Henry's
+  github:    henrythemes/hello-jekyll-theme
+  demo_url:  https://henrythemes.github.io/hello-jekyll-theme/
+  thumbnail: hello-jekyll.png
+  author:    Gerald Bauer
+  license:   Public Domain
+  tags:      [white,starter]
+
+- name:      Hello, Minima!
+  series:    Henry's
+  github:    henrythemes/hello-minima-theme
+  demo_url:  http://henrythemes.github.io/hello-minima-theme/
+  thumbnail: hello-minima.png
+  author:    Gerald Bauer
+  license:   Public Domain
+  tags:      [white,starter,minima]
+
+- name:      Hello, Pages!
+  series:    Henry's
+  github:    henrythemes/hello-pages-theme-v2
+  demo_url:  https://henrythemes.github.io/hello-pages-theme-v2/
+  thumbnail: hello-pages.png
+  author:    Gerald Bauer
+  license:   Public Domain
+  tags:      [white,starter,pages]
+
+- name:      Henry's Starter (Minimal)
+  series:    Henry's
+  github:    henrythemes/jekyll-starter-theme
+  demo_url:  http://henrythemes.github.io/jekyll-starter-theme/
+  thumbnail: henry-starter.png
+  author:    Gerald Bauer
+  license:   Public Domain
+  tags:      [white,starter]
