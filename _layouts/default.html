@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ 'style.css' | relative_url }}">
+</head>
+<body>
+  {{ content }}
+
+
+<div id="footer">
+  <p style="text-align: center; font-size: 80%; font-color: gray;">
+      Built with <a href="https://jekyllrb.com">Jekyll</a> on {{ site.time }} in 0.371 seconds.
+      Hosted on <a href="https://pages.github.com">GitHub Pages</a>.
+      &lt;/&gt; <a href="{{ site.github.repository_url }}">Source</a> on GitHub.
+      (0) Dedicated to the public domain.
+  </p>
+</div>
+
+</body>
+</html>
